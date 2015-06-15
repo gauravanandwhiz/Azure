@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // test comment
+            // It should ask us for checkout for checked-in code
         }
     }
 }
