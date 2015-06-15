@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             // test comment
             // It should ask us for checkout for checked-in code
+            // It should ask us for checkout for checked-in code
         }
     }
 }
